@@ -1,0 +1,2 @@
+export const colors = { blue: '#1877F3', ink: '#0F172A', text: '#334155', muted: '#64748B', soft: '#94A3B8', line: '#D9D9D9', paleBlue: '#E3F3FF', section: '#F4F5F6', chip: '#EFEFEF', featured: '#FDE68A' };
+export const type = { title: { fontSize: 20, lineHeight: 28, fontWeight: '600' }, subtitle: { fontSize: 16, lineHeight: 22, fontWeight: '500' }, body: { fontSize: 14, lineHeight: 20 }, small: { fontSize: 12, lineHeight: 18 }, tiny: { fontSize: 10, lineHeight: 18 } };
