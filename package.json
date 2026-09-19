@@ -4,12 +4,16 @@
   "private": true,
   "main": "index.js",
   "scripts": {
-    "start": "react-native start",
-    "android": "react-native run-android",
-    "ios": "react-native run-ios"
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios"
   },
   "dependencies": {
-    "react": "18.2.0",
-    "react-native": "0.73.6"
+    "expo": "^57.0.23",
+    "react": "19.2.3",
+    "react-native": "0.86.3"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "~57.0.0"
   }
 }
