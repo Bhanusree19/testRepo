@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "File Storage",
+    "slug": "file-storage",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
