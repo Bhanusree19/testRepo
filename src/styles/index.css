@@ -1,0 +1,51 @@
+:root {
+  --color-text: #404040;
+  --color-bg: #ffffff;
+  --font-family: 'Manrope', system-ui, -apple-system, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-family);
+  color: var(--color-text);
+  background: var(--color-bg);
+}
+
+.app-shell {
+  min-height: 100vh;
+}
+
+.page-container {
+  padding: 48px 35px;
+  max-width: 925px;
+}
+
+.license-frame {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  width: 829px;
+  max-width: 100%;
+}
+
+.license-title {
+  margin: 0;
+  font-size: 40px;
+  line-height: 48px;
+  font-weight: 800;
+  color: var(--color-text);
+}
+
+.license-text {
+  margin: 0;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 400;
+  color: var(--color-text);
+  width: 829px;
+  max-width: 100%;
+}
