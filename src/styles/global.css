@@ -1,0 +1,22 @@
+:root { font-family: 'Manrope', sans-serif; color: #156651; background: #f5f5f5; font-synthesis: none; }
+* { box-sizing: border-box; }
+body { margin: 0; }
+.cover { display: grid; width: 100%; min-height: 960px; height: 100vh; overflow: hidden; background: #f5f5f5; }
+/* Grid layers retain the extraction's canvas coordinates relative to (-158, -215). */
+.cover-copy { grid-area: 1 / 1; margin: 59px 0 0 1454px; width: 604px; height: 739px; display: flex; flex-direction: column; align-items: flex-start; gap: 44px; }
+h1 { font-size: 96px; line-height: 115.2px; font-weight: 800; letter-spacing: 0; margin: 0; width: 604px; height: 345px; flex-shrink: 0; }
+.screen-count { display: flex; align-items: center; justify-content: center; gap: 8px; padding: 16px 40px; height: 98px; width: 334px; border-radius: 76px; background: #156651; color: #fff; flex-shrink: 0; }
+.screen-count span { font-size: 48px; line-height: 65.57px; font-weight: 700; white-space: nowrap; }
+.features { display: flex; flex-direction: column; gap: 16px; width: 604px; height: 208px; padding: 0; margin: 0; list-style: none; }
+.feature { display: flex; align-items: center; gap: 16px; height: 40px; font-size: 32px; line-height: 38.4px; font-weight: 800; white-space: nowrap; }
+.feature-icon { display: flex; align-items: center; justify-content: center; width: 40px; height: 40px; flex-shrink: 0; }
+.preview-columns { grid-area: 1 / 1; display: flex; align-items: flex-start; gap: 26px; margin-left: 788px; width: 790px; pointer-events: none; }
+.preview-column { display: flex; flex-direction: column; flex-shrink: 0; gap: 26px; }
+.first-column { margin-top: -222px; width: 246px; }
+.second-column { margin-top: 59px; width: 245px; gap: 27px; }
+.third-column { margin-top: -164px; width: 246px; }
+.third-column > :first-child { margin-left: 1px; }
+.screen-preview { flex-shrink: 0; border: 7px solid #0a0a0a; border-radius: 20px; background: transparent; }
+.not-found { padding: 48px; }
+.not-found h1 { width: auto; height: auto; font-size: 32px; line-height: 1.2; }
+.not-found a { color: inherit; }
