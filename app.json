@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Home Store",
+    "slug": "home-store-cover",
+    "scheme": "home-store",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "web": { "bundler": "metro", "output": "single" }
+  }
+}
