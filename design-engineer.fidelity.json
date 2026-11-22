@@ -1,0 +1,5 @@
+{
+  "version": 1,
+  "appRoot": ".",
+  "screens": [{ "name": "Cover", "rootId": "310:234", "route": "/cover" }]
+}
