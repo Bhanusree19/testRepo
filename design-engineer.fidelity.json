@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "appRoot": ".",
+  "screens": [
+    { "name": "📘 Welcome", "rootId": "1283:51", "route": "/welcome" }
+  ]
+}

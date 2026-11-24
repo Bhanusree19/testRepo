@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'SF Pro';
+  src: local('SF Pro Text Regular'), local('SFProText-Regular'),
+    url('https://raw.githubusercontent.com/sahibjotsaggu/San-Francisco-Pro-Fonts/master/SF-Pro-Text-Regular.otf') format('opentype');
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+}
+@font-face {
+  font-family: 'SF Pro';
+  src: local('SF Pro Display Semibold'), local('SFProDisplay-Semibold'),
+    url('https://raw.githubusercontent.com/sahibjotsaggu/San-Francisco-Pro-Fonts/master/SF-Pro-Display-Semibold.otf') format('opentype');
+  font-style: normal;
+  font-weight: 590 600;
+  font-display: block;
+}
+@font-face {
+  font-family: 'SF Pro';
+  src: local('SF Pro Display Bold'), local('SFProDisplay-Bold'),
+    url('https://raw.githubusercontent.com/sahibjotsaggu/San-Francisco-Pro-Fonts/master/SF-Pro-Display-Bold.otf') format('opentype');
+  font-style: normal;
+  font-weight: 700;
+  font-display: block;
+}

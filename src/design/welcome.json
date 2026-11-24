@@ -1,0 +1,674 @@
+{
+  "rootId": "1283:51",
+  "elements": [
+    {
+      "x": -2105,
+      "y": -2686,
+      "id": "1283:52",
+      "name": "📘 Welcome",
+      "type": "instance",
+      "width": 800,
+      "height": 1392,
+      "layout": {
+        "mode": "VERTICAL",
+        "counterAxisAlign": "CENTER"
+      },
+      "parentId": "1283:51",
+      "strokeWeight": 1
+    },
+    {
+      "x": -2105,
+      "y": -2686,
+      "id": "I1283:52;48:17020",
+      "name": "Content",
+      "type": "frame",
+      "width": 800,
+      "height": 1392,
+      "layout": {
+        "mode": "VERTICAL",
+        "paddingTop": 80,
+        "itemSpacing": 60,
+        "paddingLeft": 80,
+        "paddingRight": 80,
+        "paddingBottom": 80
+      },
+      "parentId": "1283:52",
+      "strokeWeight": 1
+    },
+    {
+      "x": -2025,
+      "y": -2606,
+      "id": "I1283:52;52:17864",
+      "name": "Title and Version",
+      "type": "frame",
+      "width": 640,
+      "height": 71,
+      "layout": {
+        "mode": "VERTICAL",
+        "itemSpacing": 8
+      },
+      "parentId": "I1283:52;48:17020",
+      "strokeWeight": 1
+    },
+    {
+      "x": -2025,
+      "y": -2606,
+      "id": "I1283:52;48:17021",
+      "name": "👋 Welcome",
+      "text": "👋 Welcome",
+      "type": "text",
+      "width": 189,
+      "colors": [
+        "#000000"
+      ],
+      "height": 41,
+      "fontSize": 34,
+      "parentId": "I1283:52;52:17864",
+      "fontStyle": "700",
+      "textAlign": "LEFT",
+      "fontFamily": "SF Pro",
+      "fontWeight": 700,
+      "lineHeightPx": 41,
+      "strokeWeight": 1,
+      "letterSpacing": 0.4,
+      "textAutoResize": "WIDTH_AND_HEIGHT"
+    },
+    {
+      "x": -2025,
+      "y": -2557,
+      "id": "I1283:52;52:17865",
+      "name": "May 2024 · v18.0 · Changelog",
+      "text": "May 2024  ·  v18.0  ·  Changelog",
+      "type": "text",
+      "width": 244,
+      "colors": [
+        "#8e8e93"
+      ],
+      "height": 22,
+      "fontSize": 17,
+      "parentId": "I1283:52;52:17864",
+      "fontStyle": "400",
+      "textAlign": "LEFT",
+      "fontFamily": "SF Pro",
+      "fontWeight": 400,
+      "lineHeightPx": 22,
+      "strokeWeight": 1,
+      "letterSpacing": -0.43,
+      "textAutoResize": "WIDTH_AND_HEIGHT"
+    },
+    {
+      "x": -2025,
+      "y": -2475,
+      "id": "I1283:52;48:18364",
+      "name": "Section",
+      "type": "frame",
+      "width": 640,
+      "height": 66,
+      "layout": {
+        "mode": "VERTICAL",
+        "itemSpacing": 16
+      },
+      "parentId": "I1283:52;48:17020",
+      "strokeWeight": 1
+    },
+    {
+      "x": -2025,
+      "y": -2475,
+      "id": "I1283:52;48:18365",
+      "name": "Ask for new components, screens or changes",
+      "text": "Ask for new components, screens or changes",
+      "type": "text",
+      "width": 452,
+      "colors": [
+        "#000000"
+      ],
+      "height": 28,
+      "fontSize": 22,
+      "parentId": "I1283:52;48:18364",
+      "fontStyle": "590",
+      "textAlign": "LEFT",
+      "fontFamily": "SF Pro",
+      "fontWeight": 590,
+      "lineHeightPx": 28,
+      "strokeWeight": 1,
+      "letterSpacing": -0.26,
+      "textAutoResize": "WIDTH_AND_HEIGHT"
+    },
+    {
+      "x": -2025,
+      "y": -2431,
+      "id": "I1283:52;48:18366",
+      "name": "Paragraphs",
+      "type": "frame",
+      "width": 640,
+      "height": 22,
+      "layout": {
+        "mode": "VERTICAL",
+        "itemSpacing": 12
+      },
+      "parentId": "I1283:52;48:18364",
+      "strokeWeight": 1
+    },
+    {
+      "x": -2025,
+      "y": -2431,
+      "id": "I1283:52;48:18367",
+      "name": "https://ios-ui-kit.canny.io",
+      "text": "https://ios-ui-kit.canny.io",
+      "type": "text",
+      "width": 640,
+      "colors": [
+        "#007bfe"
+      ],
+      "height": 22,
+      "fontSize": 17,
+      "parentId": "I1283:52;48:18366",
+      "fontStyle": "400",
+      "textAlign": "LEFT",
+      "fontFamily": "SF Pro",
+      "fontWeight": 400,
+      "lineHeightPx": 22,
+      "strokeWeight": 1,
+      "letterSpacing": -0.43,
+      "textAutoResize": "HEIGHT"
+    },
+    {
+      "x": -2025,
+      "y": -2349,
+      "id": "I1283:52;48:18324",
+      "name": "Section",
+      "type": "frame",
+      "width": 640,
+      "height": 354,
+      "layout": {
+        "mode": "VERTICAL",
+        "itemSpacing": 16
+      },
+      "parentId": "I1283:52;48:17020",
+      "strokeWeight": 1
+    },
+    {
+      "x": -2025,
+      "y": -2349,
+      "id": "I1283:52;48:18323",
+      "name": "Unofficial UI Kit",
+      "text": "Unofficial UI Kit",
+      "type": "text",
+      "width": 155,
+      "colors": [
+        "#000000"
+      ],
+      "height": 28,
+      "fontSize": 22,
+      "parentId": "I1283:52;48:18324",
+      "fontStyle": "590",
+      "textAlign": "LEFT",
+      "fontFamily": "SF Pro",
+      "fontWeight": 590,
+      "lineHeightPx": 28,
+      "strokeWeight": 1,
+      "letterSpacing": -0.26,
+      "textAutoResize": "WIDTH_AND_HEIGHT"
+    },
+    {
+      "x": -2025,
+      "y": -2305,
+      "id": "I1283:52;48:18358",
+      "name": "Paragraphs",
+      "type": "frame",
+      "width": 640,
+      "height": 310,
+      "layout": {
+        "mode": "VERTICAL",
+        "itemSpacing": 12
+      },
+      "parentId": "I1283:52;48:18324",
+      "strokeWeight": 1
+    },
+    {
+      "x": -2025,
+      "y": -2305,
+      "id": "I1283:52;48:18325",
+      "name": "This Figma UI Kit for iOS 17 is provided \"as is,\" without any guarantees of perfect alignment with the actual iOS 17 user interface. This Kit is intended to be an approximation of the interface design, not an exact replication. It is designed to aid you in creating and conceptualizing your designs by offering a broad interpretation of the interface elements found in iOS 17.",
+      "text": "This Figma UI Kit for iOS 17 is provided \"as is,\" without any guarantees of perfect alignment with the actual iOS 17 user interface. This Kit is intended to be an approximation of the interface design, not an exact replication. It is designed to aid you in creating and conceptualizing your designs by offering a broad interpretation of the interface elements found in iOS 17.",
+      "type": "text",
+      "width": 640,
+      "colors": [
+        "#000000"
+      ],
+      "height": 110,
+      "fontSize": 17,
+      "parentId": "I1283:52;48:18358",
+      "fontStyle": "400",
+      "textAlign": "LEFT",
+      "fontFamily": "SF Pro",
+      "fontWeight": 400,
+      "lineHeightPx": 22,
+      "strokeWeight": 1,
+      "letterSpacing": -0.43,
+      "textAutoResize": "HEIGHT"
+    },
+    {
+      "x": -2025,
+      "y": -2183,
+      "id": "I1283:52;48:18327",
+      "name": "Please note that all trademarks, images, and visual elements that are associated with Apple Inc., such as app icons and logos, are proprietary to Apple Inc. The inclusion of these elements in this UI Kit is for illustrative purposes only, and should not be construed as a claim of ownership or endorsement by Apple Inc.",
+      "text": "Please note that all trademarks, images, and visual elements that are associated with Apple Inc., such as app icons and logos, are proprietary to Apple Inc. The inclusion of these elements in this UI Kit is for illustrative purposes only, and should not be construed as a claim of ownership or endorsement by Apple Inc.",
+      "type": "text",
+      "width": 640,
+      "colors": [
+        "#000000"
+      ],
+      "height": 88,
+      "fontSize": 17,
+      "parentId": "I1283:52;48:18358",
+      "fontStyle": "400",
+      "textAlign": "LEFT",
+      "fontFamily": "SF Pro",
+      "fontWeight": 400,
+      "lineHeightPx": 22,
+      "strokeWeight": 1,
+      "letterSpacing": -0.43,
+      "textAutoResize": "HEIGHT"
+    },
+    {
+      "x": -2025,
+      "y": -2083,
+      "id": "I1283:52;48:18328",
+      "name": "By using this UI Kit, you acknowledge the above stipulations and respect the intellectual property rights of Apple Inc. This Kit should be used responsibly, adhering to the appropriate use cases while respecting Apple's brand guidelines and trademark rights.",
+      "text": "By using this UI Kit, you acknowledge the above stipulations and respect the intellectual property rights of Apple Inc. This Kit should be used responsibly, adhering to the appropriate use cases while respecting Apple's brand guidelines and trademark rights.",
+      "type": "text",
+      "width": 640,
+      "colors": [
+        "#000000"
+      ],
+      "height": 88,
+      "fontSize": 17,
+      "parentId": "I1283:52;48:18358",
+      "fontStyle": "400",
+      "textAlign": "LEFT",
+      "fontFamily": "SF Pro",
+      "fontWeight": 400,
+      "lineHeightPx": 22,
+      "strokeWeight": 1,
+      "letterSpacing": -0.43,
+      "textAutoResize": "HEIGHT"
+    },
+    {
+      "x": -2025,
+      "y": -1935,
+      "id": "I1283:52;48:18454",
+      "name": "Section",
+      "type": "frame",
+      "width": 640,
+      "height": 110,
+      "layout": {
+        "mode": "VERTICAL",
+        "itemSpacing": 16
+      },
+      "parentId": "I1283:52;48:17020",
+      "strokeWeight": 1
+    },
+    {
+      "x": -2025,
+      "y": -1935,
+      "id": "I1283:52;48:18455",
+      "name": "Work in progress",
+      "text": "Work in progress",
+      "type": "text",
+      "width": 169,
+      "colors": [
+        "#000000"
+      ],
+      "height": 28,
+      "fontSize": 22,
+      "parentId": "I1283:52;48:18454",
+      "fontStyle": "590",
+      "textAlign": "LEFT",
+      "fontFamily": "SF Pro",
+      "fontWeight": 590,
+      "lineHeightPx": 28,
+      "strokeWeight": 1,
+      "letterSpacing": -0.26,
+      "textAutoResize": "WIDTH_AND_HEIGHT"
+    },
+    {
+      "x": -2025,
+      "y": -1891,
+      "id": "I1283:52;48:18458",
+      "name": "This UI Kit is a work in progress, with the intention to undergo weekly enhancements throughout the summer. For the most recent version, kindly refer to the file in the Figma community.",
+      "text": "This UI Kit is a work in progress, with the intention to undergo weekly enhancements throughout the summer. For the most recent version, kindly refer to the file in the Figma community.",
+      "type": "text",
+      "width": 640,
+      "colors": [
+        "#000000"
+      ],
+      "height": 66,
+      "fontSize": 17,
+      "parentId": "I1283:52;48:18454",
+      "fontStyle": "400",
+      "textAlign": "LEFT",
+      "fontFamily": "SF Pro",
+      "fontWeight": 400,
+      "lineHeightPx": 22,
+      "strokeWeight": 1,
+      "letterSpacing": -0.43,
+      "textAutoResize": "HEIGHT"
+    },
+    {
+      "x": -2025,
+      "y": -1765,
+      "id": "I1283:52;48:18329",
+      "name": "Section",
+      "type": "frame",
+      "width": 640,
+      "height": 145,
+      "layout": {
+        "mode": "VERTICAL",
+        "itemSpacing": 16
+      },
+      "parentId": "I1283:52;48:17020",
+      "strokeWeight": 1
+    },
+    {
+      "x": -2025,
+      "y": -1765,
+      "id": "I1283:52;48:18330",
+      "name": "Contributors",
+      "text": "Contributors",
+      "type": "text",
+      "width": 127,
+      "colors": [
+        "#000000"
+      ],
+      "height": 28,
+      "fontSize": 22,
+      "parentId": "I1283:52;48:18329",
+      "fontStyle": "590",
+      "textAlign": "LEFT",
+      "fontFamily": "SF Pro",
+      "fontWeight": 590,
+      "lineHeightPx": 28,
+      "strokeWeight": 1,
+      "letterSpacing": -0.26,
+      "textAutoResize": "WIDTH_AND_HEIGHT"
+    },
+    {
+      "x": -2025,
+      "y": -1721,
+      "id": "I1283:52;48:18334",
+      "name": "Img and Text",
+      "type": "frame",
+      "width": 189,
+      "height": 41,
+      "layout": {
+        "mode": "HORIZONTAL",
+        "itemSpacing": 10
+      },
+      "parentId": "I1283:52;48:18329",
+      "strokeWeight": 1
+    },
+    {
+      "x": -2025,
+      "y": -1721,
+      "id": "I1283:52;48:18335",
+      "name": "Avatar",
+      "type": "rectangle",
+      "width": 41,
+      "height": 41,
+      "radius": 100,
+      "isImage": true,
+      "parentId": "I1283:52;48:18334",
+      "strokeWeight": 1
+    },
+    {
+      "x": -1974,
+      "y": -1721,
+      "id": "I1283:52;48:18337",
+      "name": "Text",
+      "type": "frame",
+      "width": 138,
+      "height": 41,
+      "layout": {
+        "mode": "VERTICAL"
+      },
+      "parentId": "I1283:52;48:18334",
+      "strokeWeight": 1
+    },
+    {
+      "x": -1974,
+      "y": -1721,
+      "id": "I1283:52;48:18331",
+      "name": "Kevin Lanceplaine",
+      "text": "Kevin Lanceplaine",
+      "type": "text",
+      "width": 138,
+      "colors": [
+        "#000000"
+      ],
+      "height": 22,
+      "fontSize": 17,
+      "parentId": "I1283:52;48:18337",
+      "fontStyle": "400",
+      "textAlign": "LEFT",
+      "fontFamily": "SF Pro",
+      "fontWeight": 400,
+      "lineHeightPx": 22,
+      "strokeWeight": 1,
+      "letterSpacing": -0.43,
+      "textAutoResize": "WIDTH_AND_HEIGHT"
+    },
+    {
+      "x": -1974,
+      "y": -1699,
+      "id": "I1283:52;48:18338",
+      "name": "@lanceplaine",
+      "text": "@lanceplaine",
+      "type": "text",
+      "width": 86,
+      "colors": [
+        "#8e8e93"
+      ],
+      "height": 19,
+      "fontSize": 14,
+      "parentId": "I1283:52;48:18337",
+      "fontStyle": "400",
+      "textAlign": "LEFT",
+      "fontFamily": "SF Pro",
+      "fontWeight": 400,
+      "lineHeightPx": 19,
+      "strokeWeight": 1,
+      "letterSpacing": -0.15,
+      "textAutoResize": "WIDTH_AND_HEIGHT"
+    },
+    {
+      "x": -2025,
+      "y": -1664,
+      "id": "I1283:52;48:18349",
+      "name": "If you are interested in helping, let me know by leaving a message. I would love an iOS developer to help me.",
+      "text": "If you are interested in helping, let me know by leaving a message. I would love an iOS developer to help me.",
+      "type": "text",
+      "width": 640,
+      "colors": [
+        "#000000"
+      ],
+      "height": 44,
+      "fontSize": 17,
+      "parentId": "I1283:52;48:18329",
+      "fontStyle": "400",
+      "textAlign": "LEFT",
+      "fontFamily": "SF Pro",
+      "fontWeight": 400,
+      "lineHeightPx": 22,
+      "strokeWeight": 1,
+      "letterSpacing": -0.43,
+      "textAutoResize": "HEIGHT"
+    },
+    {
+      "x": -2025,
+      "y": -1560,
+      "id": "I1283:52;48:18350",
+      "name": "Section",
+      "type": "frame",
+      "width": 640,
+      "height": 186,
+      "layout": {
+        "mode": "VERTICAL",
+        "itemSpacing": 16
+      },
+      "parentId": "I1283:52;48:17020",
+      "strokeWeight": 1
+    },
+    {
+      "x": -2025,
+      "y": -1560,
+      "id": "I1283:52;48:18351",
+      "name": "Big thanks",
+      "text": "Big thanks",
+      "type": "text",
+      "width": 105,
+      "colors": [
+        "#000000"
+      ],
+      "height": 28,
+      "fontSize": 22,
+      "parentId": "I1283:52;48:18350",
+      "fontStyle": "590",
+      "textAlign": "LEFT",
+      "fontFamily": "SF Pro",
+      "fontWeight": 590,
+      "lineHeightPx": 28,
+      "strokeWeight": 1,
+      "letterSpacing": -0.26,
+      "textAutoResize": "WIDTH_AND_HEIGHT"
+    },
+    {
+      "x": -2025,
+      "y": -1516,
+      "id": "I1283:52;48:18357",
+      "name": "Despite this UI Kit being created from scratch, without incorporating any elements from other UI Kits, it's important to recognize that the inspiration to undertake this project came from the noteworthy work of these individuals:",
+      "text": "Despite this UI Kit being created from scratch, without incorporating any elements from other UI Kits, it's important to recognize that the inspiration to undertake this project came from the noteworthy work of these individuals:",
+      "type": "text",
+      "width": 640,
+      "colors": [
+        "#000000"
+      ],
+      "height": 66,
+      "fontSize": 17,
+      "parentId": "I1283:52;48:18350",
+      "fontStyle": "400",
+      "textAlign": "LEFT",
+      "fontFamily": "SF Pro",
+      "fontWeight": 400,
+      "lineHeightPx": 22,
+      "strokeWeight": 1,
+      "letterSpacing": -0.43,
+      "textAutoResize": "HEIGHT"
+    },
+    {
+      "x": -2025,
+      "y": -1434,
+      "id": "I1283:52;48:18352",
+      "name": "Img and Text",
+      "type": "frame",
+      "width": 99,
+      "height": 22,
+      "layout": {
+        "mode": "HORIZONTAL",
+        "itemSpacing": 10,
+        "counterAxisAlign": "CENTER",
+        "primaryAxisAlign": "CENTER"
+      },
+      "parentId": "I1283:52;48:18350",
+      "strokeWeight": 1
+    },
+    {
+      "x": -2025,
+      "y": -1434,
+      "id": "I1283:52;48:18353",
+      "name": "Avatar",
+      "type": "rectangle",
+      "width": 22,
+      "height": 22,
+      "radius": 100,
+      "isImage": true,
+      "parentId": "I1283:52;48:18352",
+      "strokeWeight": 1
+    },
+    {
+      "x": -1993,
+      "y": -1434,
+      "id": "I1283:52;48:18355",
+      "name": "Meng To",
+      "text": "Meng To",
+      "type": "text",
+      "width": 67,
+      "colors": [
+        "#000000"
+      ],
+      "height": 22,
+      "fontSize": 17,
+      "parentId": "I1283:52;48:18352",
+      "fontStyle": "400",
+      "textAlign": "LEFT",
+      "fontFamily": "SF Pro",
+      "fontWeight": 400,
+      "lineHeightPx": 22,
+      "strokeWeight": 1,
+      "letterSpacing": -0.43,
+      "textAutoResize": "WIDTH_AND_HEIGHT"
+    },
+    {
+      "x": -2025,
+      "y": -1396,
+      "id": "I1283:52;48:18359",
+      "name": "Img and Text",
+      "type": "frame",
+      "width": 120,
+      "height": 22,
+      "layout": {
+        "mode": "HORIZONTAL",
+        "itemSpacing": 10,
+        "counterAxisAlign": "CENTER"
+      },
+      "parentId": "I1283:52;48:18350",
+      "strokeWeight": 1
+    },
+    {
+      "x": -2025,
+      "y": -1396,
+      "id": "I1283:52;48:18360",
+      "name": "Avatar",
+      "type": "rectangle",
+      "width": 22,
+      "height": 22,
+      "radius": 100,
+      "isImage": true,
+      "parentId": "I1283:52;48:18359",
+      "strokeWeight": 1
+    },
+    {
+      "x": -1993,
+      "y": -1396,
+      "id": "I1283:52;48:18362",
+      "name": "Joey Banks",
+      "text": "Joey Banks",
+      "type": "text",
+      "width": 88,
+      "colors": [
+        "#000000"
+      ],
+      "height": 22,
+      "fontSize": 17,
+      "parentId": "I1283:52;48:18359",
+      "fontStyle": "400",
+      "textAlign": "LEFT",
+      "fontFamily": "SF Pro",
+      "fontWeight": 400,
+      "lineHeightPx": 22,
+      "strokeWeight": 1,
+      "letterSpacing": -0.43,
+      "textAutoResize": "WIDTH_AND_HEIGHT"
+    }
+  ]
+}
