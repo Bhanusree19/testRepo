@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Welcome UI Kit",
+    "slug": "welcome-ui-kit",
+    "scheme": "welcome-ui-kit",
+    "version": "1.0.0",
+    "platforms": ["ios", "android", "web"],
+    "web": { "bundler": "metro", "output": "single" }
+  }
+}
