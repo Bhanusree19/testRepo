@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "appRoot": ".",
+  "screens": [
+    {
+      "name": "Login",
+      "rootId": "1284:225",
+      "route": "/login"
+    }
+  ]
+}

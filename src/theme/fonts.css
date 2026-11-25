@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'SF Pro';
+  src: url('https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_medium.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 510;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'SF Pro';
+  src: url('https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_bold.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
