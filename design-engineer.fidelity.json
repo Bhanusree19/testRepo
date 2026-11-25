@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "appRoot": ".",
+  "screens": [
+    {
+      "name": "Try it out",
+      "rootId": "1:1382",
+      "route": "/try-it-out"
+    }
+  ]
+}

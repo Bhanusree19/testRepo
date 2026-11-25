@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Try it out",
+    "slug": "try-it-out",
+    "version": "1.0.0",
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
